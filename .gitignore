@@ -18,3 +18,5 @@ yarn-error.log*
 .idea/
 .vscode/
 *.swp
+# Google Cloud credentials
+car-rental/backend/credentials.json
