@@ -1,0 +1,20 @@
+# Node dependencies
+node_modules/
+frontend/car-rental-frontend/node_modules/
+bot/node_modules/
+
+# Build artifacts
+/frontend/car-rental-frontend/build/
+
+# Env files
+.env
+*.local
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Editor
+.idea/
+.vscode/
+*.swp
